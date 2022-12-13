@@ -1,7 +1,7 @@
 # Hello everyone, I'm Hasan Basri 👋
 ### Who am I?
 - 📲 I am a mobile developer candidate.
-    * I am studying Computer Engineering at Samsun University in Turkey. I am trying to improve myself in the field of mobile programming. Apart from this field, I am trying to take firm steps towards becoming a software developer for my future with a mindset that aims to have hardware in many programming languages.😉
+    * I am studying Computer Engineering at Samsun Ondokuz Mayıs University in Turkey. I am trying to improve myself in the field of mobile programming. I am trying to take firm steps towards becoming a software developer for my future with a mindset that aims to have hardware in many programming languages ​​apart from this field.😉
 ### My Social Accounts
 1. You can find my [LinkedIn](https://www.linkedin.com/in/hasan-basri-darga-5240651b4/) account here.
 2. You can find my [HackerRank](https://www.hackerrank.com/dargahasanbasri) account here.
