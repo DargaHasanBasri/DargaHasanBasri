@@ -3,10 +3,6 @@
 - 📲 I am a mobile developer.
     * I am studying Computer Engineering at Samsun Ondokuz Mayıs University in Turkey. I am trying to improve myself in the field of mobile programming. I am trying to take firm steps towards becoming a software developer for my future with a mindset that aims to have hardware in many programming languages ​​apart from this field.😉
 
-- ---
-
-![Hasan Basri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DargaHasanBasri&show_icons=true&theme=tokyonight)
-
 ---
 
 ### My Social Accounts
