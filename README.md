@@ -1,13 +1,26 @@
-# Hello everyone, I'm Hasan Basri 👋
-### Who am I?
-- 📲 I am a mobile developer.
-    * I am studying Computer Engineering at Samsun Ondokuz Mayıs University in Turkey. I am trying to improve myself in the field of mobile programming. I am trying to take firm steps towards becoming a software developer for my future with a mindset that aims to have hardware in many programming languages ​​apart from this field.😉
+# Hello everyone, I'm Hasan Basri 👋  
 
----
+<div>  
+  <img src="assets/intro.gif" width="300" height='300' alt="Hihiihihihihihihihihihihih there!">  
+</div>
 
-### My Social Accounts
-1. You can find my [LinkedIn](https://www.linkedin.com/in/hasan-basri-darga-5240651b4/) account here.
-2. You can find my [HackerRank](https://www.hackerrank.com/dargahasanbasri) account here.
-3. You can find my [Patika.dev](https://app.patika.dev/DargaHasanBasri) account here.
-4. You can find my [Instagram](https://instagram.com/hasann.drg?igshid=YzdkMWQ2MWU= ) account here.
+### Who am I?  
+📲 I am a mobile developer with a passion for continuous learning and growth in the field of mobile programming.  
+🎓 I graduated in Computer Engineering from Samsun Ondokuz Mayıs University in Turkey.  
+🚀 Currently, I am focused on improving my skills in **Kotlin** and **Flutter**, aiming to expand my expertise and stay updated with the latest technologies.  
 
+### My Social Accounts  
+<p align="left">  
+  <a href="https://www.linkedin.com/in/hasan-basri-darga-5240651b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>  
+  <a href="https://instagram.com/hasann.drg" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
+  </a>  
+  <a href="https://www.hackerrank.com/dargahasanbasri" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat" alt="HackerRank">
+  </a>  
+  <a href="https://app.patika.dev/DargaHasanBasri" target="_blank">
+    <img src="https://img.shields.io/badge/-Patika.dev-FCA121?logo=patikadev&logoColor=white&style=flat" alt="Patika.dev">
+  </a>  
+</p>
