@@ -19,8 +19,5 @@
   </a>  
   <a href="https://www.hackerrank.com/dargahasanbasri" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat" alt="HackerRank">
-  </a>  
-  <a href="https://app.patika.dev/DargaHasanBasri" target="_blank">
-    <img src="https://img.shields.io/badge/-Patika.dev-FCA121?logo=patikadev&logoColor=white&style=flat" alt="Patika.dev">
-  </a>  
+  </a> 
 </p>
